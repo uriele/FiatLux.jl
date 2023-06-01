@@ -1,0 +1,36 @@
+{
+    "arch": "x86_64",
+    "build": "hb25d44b_16",
+    "build_number": 16,
+    "build_string": "hb25d44b_16",
+    "channel": "https://conda.anaconda.org/conda-forge/win-64",
+    "constrains": [],
+    "depends": [
+        "vc14_runtime >=14.32.31332"
+    ],
+    "extracted_package_dir": "C:\\Users\\menar\\.julia\\scratchspaces\\0b3b1443-0f03-428d-bdfb-f27f9c1191ea\\root\\pkgs\\vc-14.3-hb25d44b_16",
+    "files": [],
+    "fn": "vc-14.3-hb25d44b_16.conda",
+    "license": "BSD-3-Clause",
+    "license_family": "BSD",
+    "link": {
+        "source": "C:\\Users\\menar\\.julia\\scratchspaces\\0b3b1443-0f03-428d-bdfb-f27f9c1191ea\\root\\pkgs\\vc-14.3-hb25d44b_16",
+        "type": 1
+    },
+    "md5": "ea326b37e3bd6d2616988e09f3a9396c",
+    "name": "vc",
+    "package_tarball_full_path": "C:\\Users\\menar\\.julia\\scratchspaces\\0b3b1443-0f03-428d-bdfb-f27f9c1191ea\\root\\pkgs\\vc-14.3-hb25d44b_16.tar.bz2",
+    "paths_data": {
+        "paths": [],
+        "paths_version": 1
+    },
+    "platform": "win",
+    "requested_spec": "",
+    "sha256": "29bc108d66150ca75cab937f844f4ac4a836beb6ea3ee167d03c611444bb2a82",
+    "size": 16824,
+    "subdir": "win-64",
+    "timestamp": 1683185902974,
+    "track_features": "vc14",
+    "url": "https://conda.anaconda.org/conda-forge/win-64/vc-14.3-hb25d44b_16.conda",
+    "version": "14.3"
+}

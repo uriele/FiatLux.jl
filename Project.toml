@@ -3,8 +3,27 @@ uuid = "e63e4d8f-e17f-429b-a070-ca45d9a3e061"
 authors = ["Marco Menarini"]
 version = "1.0.0-DEV"
 
+[deps]
+Augmentor = "02898b10-1f73-11ea-317c-6393d7073e15"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
+DataLoaders = "2e981812-ef13-4a9c-bfa0-ab13047b12a9"
+Enzyme = "7da242da-08ed-463a-9acd-ee780be4f1d9"
+FiniteDifferences = "26cc04aa-876d-5657-8c51-4c34ba976000"
+FluxMPI = "acf642fa-ee0e-513a-b9d5-bcd150f7ec3b"
+Functors = "d9f16b24-f501-4c13-a1f2-28368ffc5196"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Lux = "b2108857-7c20-44ae-9111-449ecde12c47"
+Optimisers = "3bd65402-5787-11e9-1adc-39752487f4e2"
+Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+TensorBoardLogger = "899adc3e-224a-11e9-021f-63837185c80f"
+Wandb = "ad70616a-06c9-5745-b1f1-6a5f42545108"
+
 [compat]
-julia = "1"
+julia = "1.8.3"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"

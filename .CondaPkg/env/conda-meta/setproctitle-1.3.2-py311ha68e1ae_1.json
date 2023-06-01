@@ -1,0 +1,127 @@
+{
+    "arch": "x86_64",
+    "build": "py311ha68e1ae_1",
+    "build_number": 1,
+    "build_string": "py311ha68e1ae_1",
+    "channel": "https://conda.anaconda.org/conda-forge/win-64",
+    "constrains": [],
+    "depends": [
+        "python >=3.11,<3.12.0a0",
+        "python_abi 3.11.* *_cp311",
+        "ucrt >=10.0.20348.0",
+        "vc >=14.2,<15",
+        "vs2015_runtime >=14.29.30139"
+    ],
+    "extracted_package_dir": "C:\\Users\\menar\\.julia\\scratchspaces\\0b3b1443-0f03-428d-bdfb-f27f9c1191ea\\root\\pkgs\\setproctitle-1.3.2-py311ha68e1ae_1",
+    "files": [
+        "Lib\\site-packages\\setproctitle-1.3.2.dist-info\\INSTALLER",
+        "Lib\\site-packages\\setproctitle-1.3.2.dist-info\\METADATA",
+        "Lib\\site-packages\\setproctitle-1.3.2.dist-info\\RECORD",
+        "Lib\\site-packages\\setproctitle-1.3.2.dist-info\\REQUESTED",
+        "Lib\\site-packages\\setproctitle-1.3.2.dist-info\\WHEEL",
+        "Lib\\site-packages\\setproctitle-1.3.2.dist-info\\direct_url.json",
+        "Lib\\site-packages\\setproctitle-1.3.2.dist-info\\top_level.txt",
+        "Lib\\site-packages\\setproctitle\\__init__.py",
+        "Lib\\site-packages\\setproctitle\\__pycache__\\__init__.cpython-311.pyc",
+        "Lib\\site-packages\\setproctitle\\_setproctitle.cp311-win_amd64.pyd",
+        "Lib\\site-packages\\setproctitle\\py.typed"
+    ],
+    "fn": "setproctitle-1.3.2-py311ha68e1ae_1.tar.bz2",
+    "license": "BSD-3-Clause",
+    "link": {
+        "source": "C:\\Users\\menar\\.julia\\scratchspaces\\0b3b1443-0f03-428d-bdfb-f27f9c1191ea\\root\\pkgs\\setproctitle-1.3.2-py311ha68e1ae_1",
+        "type": 1
+    },
+    "md5": "af2cf2e17d19f15161bcf7748467818a",
+    "name": "setproctitle",
+    "package_tarball_full_path": "C:\\Users\\menar\\.julia\\scratchspaces\\0b3b1443-0f03-428d-bdfb-f27f9c1191ea\\root\\pkgs\\setproctitle-1.3.2-py311ha68e1ae_1.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "Lib\\site-packages\\setproctitle-1.3.2.dist-info\\INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "size_in_bytes": 5
+            },
+            {
+                "_path": "Lib\\site-packages\\setproctitle-1.3.2.dist-info\\METADATA",
+                "path_type": "hardlink",
+                "sha256": "feaaa9f1549bb48b2ffae8dadf6001de54d76a2d785416769583c19f881da5f1",
+                "sha256_in_prefix": "feaaa9f1549bb48b2ffae8dadf6001de54d76a2d785416769583c19f881da5f1",
+                "size_in_bytes": 9761
+            },
+            {
+                "_path": "Lib\\site-packages\\setproctitle-1.3.2.dist-info\\RECORD",
+                "path_type": "hardlink",
+                "sha256": "1b8d9f66f730908f478e92f537ef715979e217d12e6ae1b084750f6831fb264d",
+                "sha256_in_prefix": "1b8d9f66f730908f478e92f537ef715979e217d12e6ae1b084750f6831fb264d",
+                "size_in_bytes": 925
+            },
+            {
+                "_path": "Lib\\site-packages\\setproctitle-1.3.2.dist-info\\REQUESTED",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "Lib\\site-packages\\setproctitle-1.3.2.dist-info\\WHEEL",
+                "path_type": "hardlink",
+                "sha256": "4f1c14795fb71c46e38d7550eea9d4648290e088a7859615feb9a4c2af3833f6",
+                "sha256_in_prefix": "4f1c14795fb71c46e38d7550eea9d4648290e088a7859615feb9a4c2af3833f6",
+                "size_in_bytes": 102
+            },
+            {
+                "_path": "Lib\\site-packages\\setproctitle-1.3.2.dist-info\\direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "76be80370ba497dbe06c04f578d7c02871ffaaa4962b175be9cd0a515735362b",
+                "sha256_in_prefix": "76be80370ba497dbe06c04f578d7c02871ffaaa4962b175be9cd0a515735362b",
+                "size_in_bytes": 73
+            },
+            {
+                "_path": "Lib\\site-packages\\setproctitle-1.3.2.dist-info\\top_level.txt",
+                "path_type": "hardlink",
+                "sha256": "92196ed92b8d10ad82b79f785e13134fada597ca74a05cdafb8766cd41530614",
+                "sha256_in_prefix": "92196ed92b8d10ad82b79f785e13134fada597ca74a05cdafb8766cd41530614",
+                "size_in_bytes": 13
+            },
+            {
+                "_path": "Lib\\site-packages\\setproctitle\\__init__.py",
+                "path_type": "hardlink",
+                "sha256": "9cc21ba1edec4b04c27430fb173da586f822f26031204abe9ca9e24e9a2776b6",
+                "sha256_in_prefix": "9cc21ba1edec4b04c27430fb173da586f822f26031204abe9ca9e24e9a2776b6",
+                "size_in_bytes": 1409
+            },
+            {
+                "_path": "Lib\\site-packages\\setproctitle\\__pycache__\\__init__.cpython-311.pyc",
+                "path_type": "hardlink",
+                "sha256": "e38ce98edfcd3f7b4381024199be361db2dd706dc4966418348af286609d8909",
+                "sha256_in_prefix": "e38ce98edfcd3f7b4381024199be361db2dd706dc4966418348af286609d8909",
+                "size_in_bytes": 2213
+            },
+            {
+                "_path": "Lib\\site-packages\\setproctitle\\_setproctitle.cp311-win_amd64.pyd",
+                "path_type": "hardlink",
+                "sha256": "718a36c063aee1e3efe47c6aa816c3e2a8ac2185226e677202b3ff9cc0b23315",
+                "sha256_in_prefix": "718a36c063aee1e3efe47c6aa816c3e2a8ac2185226e677202b3ff9cc0b23315",
+                "size_in_bytes": 13312
+            },
+            {
+                "_path": "Lib\\site-packages\\setproctitle\\py.typed",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": "win",
+    "requested_spec": "",
+    "sha256": "e4038e7f9b0b6ab51a5e3c7d77697725148226b7651afbda6c98167f95a69fae",
+    "size": 18638,
+    "subdir": "win-64",
+    "timestamp": 1666817478718,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/win-64/setproctitle-1.3.2-py311ha68e1ae_1.tar.bz2",
+    "version": "1.3.2"
+}

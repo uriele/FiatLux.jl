@@ -1,0 +1,10 @@
+prefix=C:/Users/menar/.julia/dev/FiatLux/.CondaPkg/env/Library
+exec_prefix=C:/Users/menar/.julia/dev/FiatLux/.CondaPkg/env/Library
+libdir=C:/Users/menar/.julia/dev/FiatLux/.CondaPkg/env/Library/lib
+includedir=C:/Users/menar/.julia/dev/FiatLux/.CondaPkg/env/Library/include
+
+Name: libturbojpeg
+Description: A SIMD-accelerated JPEG codec that provides the TurboJPEG API
+Version: 2.1.5.1
+Libs: -L${libdir} -lturbojpeg
+Cflags: -I${includedir}
