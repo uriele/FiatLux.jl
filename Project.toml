@@ -1,0 +1,13 @@
+name = "FiatLux"
+uuid = "e63e4d8f-e17f-429b-a070-ca45d9a3e061"
+authors = ["Marco Menarini"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
